@@ -13,7 +13,7 @@ Backtesting is the process of testing a trading strategy using historical market
 
 
 USE CASE :
-        -> Helps investors and analysts to assess the effective and risk of a strategy before applying it in real time and allows data driven,l. decision making and reduces potential financial losses
+        -> Helps investors and analysts to assess the effective and risk of a strategy before applying it in real time and allows data driven, decision making and reduces potential financial losses
 
 
 
